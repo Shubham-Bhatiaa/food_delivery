@@ -2,4 +2,3 @@
 
 [Follow us](https://Foodiefriend.in)
 
-![This is the Project Thumbnail](../client/project_images/snap.png)
